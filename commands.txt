@@ -3,3 +3,5 @@ This file is for today's commands
 git init
 git add
 git commit
+git restore
+git status
